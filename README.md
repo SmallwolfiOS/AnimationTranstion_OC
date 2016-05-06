@@ -3,6 +3,6 @@
 
 示例
 
-![](https://github.com/SmallwolfiOS/AnimationTranstion_OC/blob/master/Animation.mov)
+![](https://raw.githubusercontent.com/SmallwolfiOS/AnimationTranstion_OC/master/demo.gif)
 
 
